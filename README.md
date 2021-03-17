@@ -1,2 +1,5 @@
-# basic-bootstrap-portfolio
-Basic Portfolio Site with Boostrap (recalling how to use Bootstrap)
+# Basic Portfolio Site
+
+### My effort to recalling how to use Bootstrap.
+
+### Using bootstrap 3.4
