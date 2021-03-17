@@ -3,7 +3,19 @@
   border: 5px solid #c4c4c4;
 }
 
-.about hr {
+hr {
   width: 250px;
   border-top: 3px solid #c4c4c4;
+}
+
+section {
+  min-height: 600px;
+}
+
+.portfolio {
+  background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%); 
+}
+
+.thumbnail {
+  background-color: inherit;
 }
