@@ -3,6 +3,10 @@
   border: 5px solid #c4c4c4;
 }
 
+.about {
+  padding-top: 70px;
+}
+
 hr {
   width: 250px;
   border-top: 3px solid #c4c4c4;
@@ -16,6 +20,13 @@ section {
   background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%); 
 }
 
-.thumbnail {
-  background-color: inherit;
+.copyright {
+  padding-top: 30px;
+}
+
+.footer {
+  background-color: #333;
+  height: 100px;
+  color: #eee;
+
 }
